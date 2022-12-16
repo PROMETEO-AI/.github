@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![plot](./landing.png)
+![plot](./assets/landing.png)
 
 <!--
 
