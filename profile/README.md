@@ -1,5 +1,3 @@
-## Hey, this is us 👋
-
 ![World Image](https://github.com/PROMETEO-AI/.github/blob/main/profile/assets/landing.png?raw=true)
 
 [Prometeo.ai](https://prometeo.ai) is a sentiment analysis system that uses advanced Natural Language Processing (NLP) and Machine Learning (ML) algorithms to quantify the full range of human emotions regarding specific crypto topics. 
