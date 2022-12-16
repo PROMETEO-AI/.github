@@ -1,14 +1,32 @@
-## Hi there 👋
+## Hey, this is us 👋
 
-![plot](./assets/landing.png)
+![World Image](https://github.com/PROMETEO-AI/.github/blob/main/profile/assets/landing.png?raw=true)
 
-<!--
+[Prometeo.ai](https://prometeo.ai) is a sentiment analysis system that uses advanced Natural Language Processing (NLP) and Machine Learning (ML) algorithms to quantify the full range of human emotions regarding specific crypto topics. 
+- Quantifies a range of crypto sentiments 
+- Comprehends the meaning behind the sentences. 
 
-**Here are some ideas to get you started:**
+We take care of all the heavy lifting, giving you access to real-time data and actionable insights in an instant.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 👓 Our Product
+
+- **High Frequency offering:** 
+    - Minutely sentiment data for social communications (Twitter, Reddit, Discord, Telegram)
+    - Risk Indicators
+    - Current market sentiment
+
+- **Venture Capital offering:** 
+    - Activity in early adopters' groups
+    - Development activity (GitHub)
+    - Buzz on social media and news
+
+- **Web3 offering:**
+    - Measure public opinion
+
+
+### 🍿 Getting ready for launch
+
+We are getting ready for launch in 2023, please contact us for more information.
+
+
+
